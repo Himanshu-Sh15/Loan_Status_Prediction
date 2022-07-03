@@ -9,8 +9,8 @@ Following Factors are:
 2. Education
 3. Marrital status
 4. Loan Amount
-5. Credit History
-6. Account Balance
+5. Loan Term
+6. Applicant Income
 7. Property Area
 8. Credit History
 9. Dependants
